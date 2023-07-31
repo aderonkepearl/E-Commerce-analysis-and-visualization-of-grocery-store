@@ -1,0 +1,78 @@
+ProductName,ProductID,CategoryName
+" Chais",1,Beverages
+" Chang",2,Beverages
+" Guaraná Fantástica",24,Beverages
+" Sasquatch Ale",34,Beverages
+" Steeleye Stout",35,Beverages
+" Côte de Blaye",38,Beverages
+" Chartreuse verte",39,Beverages
+" Ipoh Coffee",43,Beverages
+" Laughing Lumberjack Lager",67,Beverages
+" Outback Lager",70,Beverages
+" Rhönbräu Klosterbier",75,Beverages
+" Lakkalikööri",76,Beverages
+" Aniseed Syrup",3,Condiments
+" Chef Anton's Cajun Seasoning",4,Condiments
+" Chef Anton's Gumbo Mix",5,Condiments
+" Grandma's Boysenberry Spread",6,Condiments
+" Northwoods Cranberry Sauce",8,Condiments
+" Genen Shouyu",15,Condiments
+" Gula Malacca",44,Condiments
+" Sirop d'érable",61,Condiments
+" Vegie-spread",63,Condiments
+" Louisiana Fiery Hot Pepper Sauce",65,Condiments
+" Louisiana Hot Spiced Okra",66,Condiments
+"Original Frankfurter grüne Soße",77,Condiments
+" Pavlova",16,Confections
+" Teatime Chocolate Biscuits",19,Confections
+" Sir Rodney's Marmalade",20,Confections
+" Sir Rodney's Scones",21,Confections
+" NuNuCa Nuß-Nougat-Creme",25,Confections
+" Gumbär Gummibärchen",26,Confections
+" Schoggi Schokolade",27,Confections
+" Zaanse koeken",47,Confections
+" Chocolade",48,Confections
+" Maxilaku",49,Confections
+" Valkoinen suklaa",50,Confections
+" Tarte au sucre",62,Confections
+" Scottish Longbreads",68,Confections
+" Queso Cabrales",11,"Dairy Products"
+" Queso Manchego La Pastora",12,"Dairy Products"
+" Gorgonzola Telino",31,"Dairy Products"
+" Mascarpone Fabioli",32,"Dairy Products"
+" Geitost",33,"Dairy Products"
+" Raclette Courdavault",59,"Dairy Products"
+" Camembert Pierrot",60,"Dairy Products"
+" Gudbrandsdalsost",69,"Dairy Products"
+" Fløtemysost",71,"Dairy Products"
+" Mozzarella di Giovanni",72,"Dairy Products"
+" Gustaf's Knäckebröd",22,Grains/Cereals
+" Tunnbröd",23,Grains/Cereals
+" Singaporean Hokkien Fried Mee",42,Grains/Cereals
+" Filo Mix",52,Grains/Cereals
+" Gnocchi di nonna Alice",56,Grains/Cereals
+" Ravioli Angelo",57,Grains/Cereals
+" Wimmers gute Semmelknödel",64,Grains/Cereals
+" Mishi Kobe Niku",9,Meat/Poultry
+" Alice Mutton",17,Meat/Poultry
+" Thüringer Rostbratwurst",29,Meat/Poultry
+" Perth Pasties",53,Meat/Poultry
+" Tourtière",54,Meat/Poultry
+" Pâté chinois",55,Meat/Poultry
+" Uncle Bob's Organic Dried Pears",7,Produce
+" Tofu",14,Produce
+" Rössle Sauerkraut",28,Produce
+" Manjimup Dried Apples",51,Produce
+" Longlife Tofu",74,Produce
+" Ikura",10,Seafood
+" Konbu",13,Seafood
+" Carnarvon Tigers",18,Seafood
+" Nord-Ost Matjeshering",30,Seafood
+" Inlagd Sill",36,Seafood
+" Gravad lax",37,Seafood
+" Boston Crab Meat",40,Seafood
+" Jack's New England Clam Chowder",41,Seafood
+" Røgede sild",45,Seafood
+" Spegesild",46,Seafood
+" Escargots de Bourgogne",58,Seafood
+" Röd Kaviar",73,Seafood
